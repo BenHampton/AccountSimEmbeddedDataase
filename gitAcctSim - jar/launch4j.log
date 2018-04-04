@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Ben Hampton\Desktop\gitAcctSim\AccountSimDatabase.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Ben Hampton\Desktop\gitAcctSim\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_144
+Check launcher:	C:\Users\Ben Hampton\Desktop\gitAcctSim\bin\jre1.8.0_144\bin\javaw.exe (OK)
+Launcher:	C:\Users\Ben Hampton\Desktop\gitAcctSim\bin\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ben Hampton\Desktop\gitAcctSim\AccountSimDatabase.exe"
+Args length:	69/32768 chars
+Exit code:	0
